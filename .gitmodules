@@ -1,3 +1,3 @@
 [submodule "buildroot"]
 	path = buildroot
-	url = https://github.com/FunKey-Project/buildroot.git
+	url = https://github.com/x1ongzhu/buildroot.git
